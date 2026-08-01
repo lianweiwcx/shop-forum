@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 400">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#4e54c8"/><stop offset="1" stop-color="#8f94fb"/></linearGradient></defs>
+  <rect width="600" height="400" fill="url(#g)"/>
+  <circle cx="500" cy="70" r="130" fill="#fff" opacity="0.12"/>
+  <circle cx="90" cy="340" r="90" fill="#fff" opacity="0.10"/>
+  <text x="40" y="80" font-family="Arial,Microsoft YaHei,sans-serif" font-size="36" font-weight="bold" fill="#fff">AI</text>
+  <text x="40" y="220" font-family="Arial,Microsoft YaHei,sans-serif" font-size="34" font-weight="bold" fill="#fff">AI 肌肤检测美容仪</text>
+  <text x="40" y="270" font-family="Arial,Microsoft YaHei,sans-serif" font-size="20" fill="#fff" opacity="0.85">AI 智能服务</text>
+</svg>
